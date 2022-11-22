@@ -9,7 +9,7 @@ const ipfetch = require('ip-fetch');
 
 //REPLACE your token here
 const bot = new TeleBot({
-  token: 'YOUR TOKEN HERE',
+  token: 'YOUR TOKEN HERE', //Paste your bot token here (you have to create a bot on @botfather in Telegram)
   usePlugins: ['askUser']
 }); // On start command
 
