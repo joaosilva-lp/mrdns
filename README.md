@@ -1,6 +1,6 @@
 # Mr. DNS Telegram Bot
 
-<strong>:mag_right: a Telegram Bot created in nodeJS (javascript) with Telebot (https://github.com/mullwar/telebot) </strong>
+<strong>:mag_right: a Telegram Bot created in nodeJS (javascript) with Telebot (https://github.com/mullwar/telebot) with some DNS tools </strong>
 
 You can use it just by clicking https://t.me/mrdns_bot or just clone this repo and edit as you want!
 
